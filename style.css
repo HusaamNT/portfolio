@@ -1,3 +1,21 @@
-.body{
-    height: 1000vh;
+body{
+    height: 5000px;
+}
+
+img{
+    width: 85%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.nav-link{
+    color: rgb(32, 163, 224);
+}
+
+#carouselDark{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
