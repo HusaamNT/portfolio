@@ -14,8 +14,22 @@ img{
     color: rgb(32, 163, 224);
 }
 
-#carouselDark{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.hero-body{
+    padding: 50px;
+}
+
+h1{
+    padding-left: 10%;
+}
+h2{
+    padding-left: 10%;
+    padding-bottom: 5px;
+}
+.title{
+    font-size: 500%;
+}
+.class
+
+h3{
+    font-weight: 900;
 }
